@@ -6,6 +6,7 @@ The code was developed and tested under Ubuntu 12.04.3 LTS and requires the foll
   - hashdb v1.0.0-beta2
   - hashdb v1.1.2
   - md5deep v4.4
+  - Python 3.x
  
 # Usage
 $ python3 process_img.py option image_base
